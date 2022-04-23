@@ -1,4 +1,4 @@
-# dpmx-extract-image
+# dpmx_extract_image
 
 
 Extracts JPEG, BPM files from dpm file
